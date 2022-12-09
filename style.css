@@ -1,0 +1,21 @@
+body {
+
+    background-color: red
+}
+
+h1  {
+    color: white;
+    font-family: 'Rubik 80s Fade';
+    font-weight: 100;
+    font-size:400%
+}
+p { color:black
+    }
+img {
+    border: 3px solid gray;
+    border-radius: 1em;
+}
+
+h2 {
+    color:aqua;
+}
